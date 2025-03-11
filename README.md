@@ -23,7 +23,7 @@ The **Advertising Dashboard** is an advanced Power BI project aimed at providing
 [Click to view dashboard via Power BI web Link](https://app.powerbi.com/view?r=eyJrIjoiYjk1M2U3MjctZjE1Zi00NWQzLWEyMmQtZTMzZjhhYzMyYTE1IiwidCI6IjY3NmQ5MDg1LTQzMjMtNDc2NS1iZTVjLWNjMDdlMTEyMTA5MiJ9) 
 
 <div style="display: flex; flex-direction: row;">
-  <img src="(Media files (Icons, Images & Background)/Dashboardgif.gif) " alt="Dashboard" width="400" style="margin-right: 20px;">
+  <img src="Media files (Icons, Images & Background)/Dashboardgif.gif" alt="Dashboard" width="400" style="margin-right: 20px;">
 </div>
 
 _Easily accessible visuals provide insights at a glance, enhancing decision-making for advertising strategies._
