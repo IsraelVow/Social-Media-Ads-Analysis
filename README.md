@@ -3,12 +3,12 @@
 ## Table of Contents
 
 - [Project Overview](#project-overview)
+- [Demo](#demo)
 - [Technologies Used](#technologies-used)
 - [Features](#features)
 - [Data Sources](#data-sources)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [Demo](#demo)
 - [Best Practices](#best-practices)
 - [Contributing](#contributing)
 - [License](#license)
@@ -17,6 +17,16 @@
 ## Project Overview
 
 The **Advertising Dashboard** is an advanced Power BI project aimed at providing clear insights into advertising campaigns. By leveraging data analysis and visual storytelling, this dashboard allows stakeholders to monitor key performance metrics like Total Spend, Clicks, Leads, Impressions, and Cost Per Lead (CPL). The interactive nature of the visuals empowers users to make informed decisions that optimize advertising strategies and improve Return on Investment (ROI).
+
+## Demo
+
+[Click to view dashboard via Power BI web Link](https://app.powerbi.com/view?r=eyJrIjoiYjk1M2U3MjctZjE1Zi00NWQzLWEyMmQtZTMzZjhhYzMyYTE1IiwidCI6IjY3NmQ5MDg1LTQzMjMtNDc2NS1iZTVjLWNjMDdlMTEyMTA5MiJ9) 
+
+<div style="display: flex; flex-direction: row;">
+  <img src="(Media files (Icons, Images & Background)/Dashboardgif.gif) " alt="Dashboard" width="400" style="margin-right: 20px;">
+</div>
+
+_Easily accessible visuals provide insights at a glance, enhancing decision-making for advertising strategies._
 
 ## Technologies Used
 
@@ -57,12 +67,6 @@ This project utilizes multiple data sources to provide a comprehensive overview 
 - **Explore the Dashboard:** Interact with slicers to filter data based on date ranges, campaign targets, or other relevant dimensions.
 - **Analyze Trends:** Use the running total visuals to assess spending vs. lead generation over time.
 - **Optimize Campaigns:** Identify high-performing and underperforming campaigns using matrix comparisons of key metrics.
-
-## Demo
-
-![Demo Dashboard Screenshot](Media files (Icons, Images & Background)/Dashboardgif.gif) 
-
-_Easily accessible visuals provide insights at a glance, enhancing decision-making for advertising strategies._
 
 ## Best Practices
 
