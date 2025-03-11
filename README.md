@@ -90,7 +90,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For inquiries or feedback regarding this project, feel free to reach out:
 
 - **Your Name**
-- **Email:** your.email@example.com
+- **Email:** israeljvow@gmail.com
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/israeljosiah/)
 - **GitHub:** [GitHub Profile](https://github.com/IsraelVow)
 
